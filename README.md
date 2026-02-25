@@ -47,7 +47,6 @@ Communication:
 
 ### SUBNETTING
 Provided network: 192.168.1.0 <br>
-This is a class C network, making the subnet mask: 255.255.255.0
 Number of subnets required: 3 <br>
 
 //formula for calculating subnets: <br>
