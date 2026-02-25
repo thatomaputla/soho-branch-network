@@ -57,12 +57,12 @@ Number of subnets required: 3 <br>
 //11111111.11111111.11111111.11000000 <br>
 //255.255.255.192 = Subnet mask with block size of 64 <br>
 
-First Subnet (VLAN 10):
-Subnet mask = 255.255.255.192
-Network ID = 192.168.1.0
-CIDR notation = 192.168.1.0/26
-Valid host range = 192.168.1.1 -> 192.168.1.62 
-Broadcast ID = 192.168.1.63
+First Subnet (VLAN 10): <br>
+Subnet mask = 255.255.255.192 <br>
+Network ID = 192.168.1.0 <br>
+CIDR notation = 192.168.1.0/26 <br>
+Valid host range = 192.168.1.1 -> 192.168.1.62 <br>
+Broadcast ID = 192.168.1.63 <br>
 
 Second Subnet (VLAN 20): <br>
 Subnet mask = 255.255.255.192 <br>
