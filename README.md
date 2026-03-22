@@ -44,6 +44,7 @@ Communication:
 2. DHCP ensures dynamic IP assignment, reducing administrative overhead and improving efficiency. <br>
 ![Network Topology](images/topology.png)
 <br>
+### TO DOWNLOAD THE PACKET TRACER FILE, CLICK ON THE "PACKET-TRACER" FOLDER
 
 ### SUBNETTING
 Provided network: 192.168.1.0 <br>
